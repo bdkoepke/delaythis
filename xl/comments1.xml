@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>tc={F3E8FF35-69F1-4842-8355-884098ABAF67}</author><author>tc={97236E1F-9B84-4B6E-80B8-E799C71990FF}</author><author>tc={B22A09D5-0A21-42D0-82C2-C047F710BAAF}</author><author>tc={D3DBD910-385E-4A1E-85F0-1296864568F8}</author><author>tc={1629B342-EAB8-4D83-8F57-AD62CA57B4B8}</author><author>tc={B8F80654-6586-4CFA-9D14-5D6716396868}</author></authors><commentList><comment ref="P7" authorId="0" shapeId="0" xr:uid="{F3E8FF35-69F1-4842-8355-884098ABAF67}"><text><t>[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Flights that we can't get status for and we don't want to try again.</t></text></comment><comment ref="P8" authorId="1" shapeId="0" xr:uid="{97236E1F-9B84-4B6E-80B8-E799C71990FF}"><text><t>[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    random request id</t></text></comment><comment ref="P9" authorId="2" shapeId="0" xr:uid="{B22A09D5-0A21-42D0-82C2-C047F710BAAF}"><text><t>[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Selected search result detail id</t></text></comment><comment ref="P11" authorId="3" shapeId="0" xr:uid="{D3DBD910-385E-4A1E-85F0-1296864568F8}"><text><t>[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Minimum stars for flight delay stats below which a flight won't be considered.</t></text></comment><comment ref="P13" authorId="4" shapeId="0" xr:uid="{1629B342-EAB8-4D83-8F57-AD62CA57B4B8}"><text><t>[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Cookie from logging into the flightstats.com API. Only necessary for historical flight status great than five days old.</t></text></comment><comment ref="P14" authorId="5" shapeId="0" xr:uid="{B8F80654-6586-4CFA-9D14-5D6716396868}"><text><t>[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    https://docs.kiwi.com/#flights-flights-get for all parameters</t></text></comment></commentList></comments>
