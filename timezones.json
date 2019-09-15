@@ -1,0 +1,27 @@
+[
+  {
+    "TimeZone": "ET",
+    "S": -5,
+    "D": -4
+  },
+  {
+    "TimeZone": "CT",
+    "S": -6,
+    "D": -5
+  },
+  {
+    "TimeZone": "MT",
+    "S": -7,
+    "D": -6
+  },
+  {
+    "TimeZone": "PT",
+    "S": -8,
+    "D": -7
+  },
+  {
+    "TimeZone": "AKT",
+    "S": -9,
+    "D": -8
+  }
+]

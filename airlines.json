@@ -1,0 +1,67 @@
+[
+  {
+    "Airline": "Air Canada",
+    "IATA": "AC",
+    "ICAO": "ACA"
+  },
+  {
+    "Airline": "Air Canada Jazz",
+    "IATA": "QK",
+    "ICAO": "JZA"
+  },
+  {
+    "Airline": "Air Canada Rouge",
+    "IATA": "RV",
+    "ICAO": "ROU"
+  },
+  {
+    "Airline": "Alaska Airlines, Inc",
+    "IATA": "AS",
+    "ICAO": "ASA"
+  },
+  {
+    "Airline": "American Airlines",
+    "IATA": "AA",
+    "ICAO": "AAL"
+  },
+  {
+    "Airline": "Delta",
+    "IATA": "DL",
+    "ICAO": "DAL"
+  },
+  {
+    "Airline": "Horizon Air",
+    "IATA": "QX",
+    "ICAO": "QXE"
+  },
+  {
+    "Airline": "Piedmont Airlines",
+    "IATA": "PI",
+    "ICAO": "PDT"
+  },
+  {
+    "Airline": "PSA Airlines",
+    "IATA": "OH",
+    "ICAO": "JIA"
+  },
+  {
+    "Airline": "Southwest Airlines",
+    "IATA": "WN",
+    "ICAO": "SWA"
+  },
+  {
+    "Airline": "United Airlines",
+    "IATA": "UA",
+    "ICAO": "UAL"
+  },
+  {
+    "Airline": "WestJet",
+    "IATA": "WS",
+    "ICAO": "WJA"
+  },
+  {
+    "Airline": "WestJet Encore",
+    "IATA": "WR",
+    "ICAO": "WEN"
+  }
+]

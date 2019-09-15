@@ -1,0 +1,87 @@
+[
+  {
+    "IATA": "PHL",
+    "ICAO": "KPHL",
+    "TimeZone": "ET"
+  },
+  {
+    "IATA": "SEA",
+    "ICAO": "KSEA",
+    "TimeZone": "PT"
+  },
+  {
+    "IATA": "YLW",
+    "ICAO": "CYLW",
+    "TimeZone": "PT"
+  },
+  {
+    "IATA": "YYC",
+    "ICAO": "CYYC",
+    "TimeZone": "MT"
+  },
+  {
+    "IATA": "YYZ",
+    "ICAO": "CYYZ",
+    "TimeZone": "ET"
+  },
+  {
+    "IATA": "ANC",
+    "ICAO": "PANC",
+    "TimeZone": "AKT"
+  },
+  {
+    "IATA": "MSP",
+    "ICAO": "KMSP",
+    "TimeZone": "CT"
+  },
+  {
+    "IATA": "YEG",
+    "ICAO": "CYEG",
+    "TimeZone": "MT"
+  },
+  {
+    "IATA": "ORD",
+    "ICAO": "KORD",
+    "TimeZone": "CT"
+  },
+  {
+    "IATA": "PHX",
+    "ICAO": "KPHX",
+    "TimeZone": "MT"
+  },
+  {
+    "IATA": "SFO",
+    "ICAO": "KSFO",
+    "TimeZone": "PT"
+  },
+  {
+    "IATA": "YVR",
+    "ICAO": "CYVR",
+    "TimeZone": "PT"
+  },
+  {
+    "IATA": "MDW",
+    "ICAO": "KMDW",
+    "TimeZone": "CT"
+  },
+  {
+    "IATA": "YUL",
+    "ICAO": "CYUL",
+    "TimeZone": "ET"
+  },
+  {
+    "IATA": "DEN",
+    "ICAO": "KDEN",
+    "TimeZone": "MT"
+  },
+  {
+    "IATA": "PDX",
+    "ICAO": "KPDX",
+    "TimeZone": "PT"
+  },
+  {
+    "IATA": "EWR",
+    "ICAO": "KEWR",
+    "TimeZone": "ET"
+  }
+]
